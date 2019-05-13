@@ -10,7 +10,7 @@
 
 ## Sobre mim
 
-Esforçado, dedicado e amante de desafios, procuro utilizar grande parte do meu tempo estudando, acredito que isso seja fundamental para todo desenvolvedor e profissional de TI. 
+Procuro utilizar grande parte do meu tempo estudando, acredito que isso seja fundamental para todo desenvolvedor e profissional de TI. 
 
 Ter uma boa base em HTML5, CSS3, Javascript e um perfil autodidata faz com que eu consiga aprender o que for necessário para solucionar desafios propostos.
 ## Skills
