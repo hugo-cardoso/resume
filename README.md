@@ -40,12 +40,12 @@ jul de 2017 – até o momento  (1 ano e 10 meses)
 A Photon Group é uma empresa especializada na criação e venda de produtos do ramo fitness e saúde. É dona das marcas Iridium Labs, Everman, Veeva e Slim360.
 
 Minhas principais atribuições foram:
-• Desenvolvimento e manutenção do E-commerce e Blog da marca Iridium Labs.
-• Análise e otimizações de performance dos sites da empresa.
-• Desenvolvimento do sistema de checkout mobile (Plataforma Vtex)
-• Desenvolvimento e manutenção de funcionalidades para o sistema interno de gestão da empresa.
-• Desenvolvimento de dashboards para o sistema interno de gestão da empresa.
-• Estudo de tecnologias para definições arquiteturais.
+- Desenvolvimento e manutenção do E-commerce e Blog da marca Iridium Labs.
+- Análise e otimizações de performance dos sites da empresa.
+- Desenvolvimento do sistema de checkout mobile (Plataforma Vtex)
+- Desenvolvimento e manutenção de funcionalidades para o sistema interno de gestão da empresa.
+- Desenvolvimento de dashboards para o sistema interno de gestão da empresa.
+- Estudo de tecnologias para definições arquiteturais.
 
 Tecnologias utilizadas: HTML, CSS, SASS, Javascript (ES6), React, Styled Components, Gulp, Babel, Webpack,, Git, Figma.
 
@@ -57,9 +57,9 @@ abr de 2017 - jul de 2017 (3 meses)
 A Idealista é uma empresa de Estratégia de Marketing, Conteúdo Digital e Desenvolvimento de Negócios.
 
 Minhas principais atribuições foram:
-• Desenvolvimento e manutenção de E-commerce e Landing Pages para parceiros (Tinder, Blissímo e Amway)
-• Desenvolvimento de ferramentas para auxiliar o trabalho de outras áreas.
-• Análise e levantamento de requisitos para estudos de novas funcionalidades.
+- Desenvolvimento e manutenção de E-commerce e Landing Pages para parceiros (Tinder, Blissímo e Amway)
+- Desenvolvimento de ferramentas para auxiliar o trabalho de outras áreas.
+- Análise e levantamento de requisitos para estudos de novas funcionalidades.
 
 Tecnologias utilizadas: HTML, CSS, Javascript, jQuery, Photoshop.
 
@@ -73,9 +73,9 @@ A Atento Brasil é uma empresa de Contact Center, BPO(Business Process Outsourci
 Fui alocado para a central de suporte técnico da Motorola com o objetivo de utilizar a tecnologia para tornar o atendimento mais rápido e eficiente.
 
 Minhas principais atribuições foram:
-• Desenvolvimento e manutenção de funcionalidades para o sistema interno de gestão de conteúdo.
-• Desenvolvimento de ferramentas para auxiliar o trabalho de outras áreas.
-• Análise e levantamento de requisitos para estudos de novas funcionalidades.
+- Desenvolvimento e manutenção de funcionalidades para o sistema interno de gestão de conteúdo.
+- Desenvolvimento de ferramentas para auxiliar o trabalho de outras áreas.
+- Análise e levantamento de requisitos para estudos de novas funcionalidades.
 
 Tecnologias utilizadas: HTML, CSS, Javascript, jQuery.
 
