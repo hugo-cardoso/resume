@@ -41,12 +41,17 @@ jul de 2017 – até o momento  (1 ano e 10 meses)
 A Photon Group é uma empresa especializada na criação e venda de produtos do ramo fitness e saúde. É dona das marcas Iridium Labs, Everman, Veeva e Slim360.
 
 Minhas principais atribuições foram:
-- Desenvolvimento e manutenção do E-commerce e Blog da marca Iridium Labs.
+- Desenvolvimento e manutenção do E-commerce, Blog e Landing Pages da marca Iridium Labs.
 - Análise e otimizações de performance dos sites da empresa.
 - Desenvolvimento do sistema de checkout mobile (Plataforma Vtex)
 - Desenvolvimento e manutenção de funcionalidades para o sistema interno de gestão da empresa.
 - Desenvolvimento de dashboards para o sistema interno de gestão da empresa.
 - Estudo de tecnologias para definições arquiteturais.
+
+Links úteis:
+- [E-commerce Iridium Labs](https://www.iridiumlabs.com.br/)
+- [Blog Iridium Labs](https://www.feitodeiridium.com.br/)
+- [Landing Page (Zeus Extreme)](https://zeusextreme.com.br/)
 
 Tecnologias utilizadas: HTML, CSS, SASS, Javascript (ES6), React, Redux, Styled Components, Gulp, Babel, Webpack, Git, Figma.
 
