@@ -1,7 +1,7 @@
 # Hugo Cardoso
 
 **Localização:** São Paulo, Brasil  
-**Telefone:** +55 11 9 5937-7813  
+**Telefone:** +55 11 9 5397-7813  
 **E-mail:** [hugorafaelmc@gmail.com](mailto:hugorafaelmc@gmail.com)  
 **LinkedIn:** [https://www.linkedin.com/in/hugo-cardoso-32a912100/](https://www.linkedin.com/in/hugo-cardoso-32a912100/)  
 
