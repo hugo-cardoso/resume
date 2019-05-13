@@ -71,7 +71,7 @@ Tecnologias utilizadas: HTML, CSS, Javascript, jQuery, Photoshop.
 
 ---
 
-**Atento** - Analista de Conteúdo
+**Atento** - Analista de Conteúdo  
 jan de 2014 - abr de 2017 (3 anos e 4 meses)
 
 A Atento Brasil é uma empresa de Contact Center, BPO(Business Process Outsourcing) e Atendimento ao Cliente.
