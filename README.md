@@ -22,6 +22,7 @@ Ter uma boa base em HTML5, CSS3, Javascript e um perfil autodidata faz com que e
 - Orientação a Objetos
 - Arquitetura MVC
 - React
+- Redux
 - Babel
 - Webpack
 - Gulp
@@ -47,7 +48,7 @@ Minhas principais atribuições foram:
 - Desenvolvimento de dashboards para o sistema interno de gestão da empresa.
 - Estudo de tecnologias para definições arquiteturais.
 
-Tecnologias utilizadas: HTML, CSS, SASS, Javascript (ES6), React, Styled Components, Gulp, Babel, Webpack,, Git, Figma.
+Tecnologias utilizadas: HTML, CSS, SASS, Javascript (ES6), React, Redux, Styled Components, Gulp, Babel, Webpack, Git, Figma.
 
 ---
 
