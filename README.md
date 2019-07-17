@@ -3,9 +3,9 @@
 **Localização:** São Paulo, Brasil  
 **Telefone:** +55 11 9 5397-7813  
 **E-mail:** [hugorafaelmc@gmail.com](mailto:hugorafaelmc@gmail.com)  
-**LinkedIn:** [https://www.linkedin.com/in/hugo-cardoso-32a912100/](https://www.linkedin.com/in/hugo-cardoso-32a912100/)  
+**LinkedIn:** [https://www.linkedin.com/in/hugormcardoso/](https://www.linkedin.com/in/hugormcardoso/)  
 
-**Github:** [@tunadao1](https://github.com/tunadao1)  
+**Github:** [@hugo-cardoso](https://github.com/hugo-cardoso)  
 **Codepen:** [@tunadao1](http://codepen.io/tunadao1/)  
 
 ## Sobre mim
