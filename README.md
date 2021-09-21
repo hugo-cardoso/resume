@@ -56,3 +56,12 @@ mar de 2014 - abr de 2017 (2 anos e 2 meses)
 - **React** - Rocketseat
 - **NextJS** - Rocketseat
 - **Fundamentos do C#** - Balta.io
+
+## Projetos  
+
+- [**Open Nav Charts**](https://www.opennavcharts.com.br) - Ferramenta de busca e visualização de procedimentos aeronáuticos.
+  - React
+  - Redux
+  - Styled Components
+  - NodeJS
+  - MongoDB
