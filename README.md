@@ -3,96 +3,56 @@
 **Localização:** São Paulo, Brasil  
 **Telefone:** +55 11 9 5397-7813  
 **E-mail:** [hugorafaelmc@gmail.com](mailto:hugorafaelmc@gmail.com)  
+
+**Site:** [https://www.hcardoso.com.br](https://www.hcardoso.com.br)  
 **LinkedIn:** [https://www.linkedin.com/in/hugormcardoso/](https://www.linkedin.com/in/hugormcardoso/)  
+**Github:** [@hugo-cardoso](https://github.com/hugo-cardoso)
 
-**Github:** [@hugo-cardoso](https://github.com/hugo-cardoso)  
-**Codepen:** [@tunadao1](http://codepen.io/tunadao1/)  
-
-## Sobre mim
-
-Procuro utilizar grande parte do meu tempo estudando, acredito que isso seja fundamental para todo desenvolvedor e profissional de TI. 
-
-Ter uma boa base em HTML5, CSS3, Javascript e um perfil autodidata faz com que eu consiga aprender o que for necessário para solucionar desafios propostos.
 ## Skills
 
-- HTML e HTML 5
-- CSS e CSS3
-- Sass e Styled Components
-- Javascript (es6)
-- Orientação a Objetos
-- Arquitetura MVC
 - React
 - Redux
-- Babel
+- Vue
+- Vuex
+- Styled Components
+- SASS
+- NextJS
 - Webpack
-- Gulp
-- Versionamento de Código (Git)
-- Linha de Comando
-- Lógica
-- Windows, Linux e OSX
-- Vtex
-- Facilidade e disposição para aprender o que não estiver nessa lista! :)
+- Babel
+- Type Script
+- Nodejs
+- Disposição para aprender o que não estiver nessa lista!
 
 ## Experiência Profissional
 
-**Photon Group** - Desenvolvedor Front-end  
-jul de 2017 – até o momento  (1 ano e 10 meses)
+- **Claro Brasil** - Desenvolvedor Front-end  
+jan de 2020 - atualmente
 
-A Photon Group é uma empresa especializada na criação e venda de produtos do ramo fitness e saúde. É dona das marcas Iridium Labs, Everman, Veeva e Slim360.
+- **Zup Innovation** - Desenvolvedor Front-end  
+out de 2019 - jan de 2020 (4 meses)
 
-Minhas principais atribuições foram:
-- Desenvolvimento e manutenção do E-commerce, Blog e Landing Pages da marca Iridium Labs.
-- Análise e otimizações de performance dos sites da empresa.
-- Desenvolvimento do sistema de checkout mobile (Plataforma Vtex)
-- Desenvolvimento e manutenção de funcionalidades para o sistema interno de gestão da empresa.
-- Desenvolvimento de dashboards para o sistema interno de gestão da empresa.
-- Estudo de tecnologias para definições arquiteturais.
+- **Viajanet** - Desenvolvedor Front-end  
+jun de 2019 - out de 2019 (5 meses)
 
-Links úteis:
-- [E-commerce Iridium Labs](https://www.iridiumlabs.com.br/)
-- [Blog Iridium Labs](https://www.feitodeiridium.com.br/)
-- [Landing Page (Zeus Extreme)](https://zeusextreme.com.br/)
+- **Photon Group** - Desenvolvedor Front-end  
+jun de 2017 – jun de 2019  (2 ano e 1 mês)  
 
-Tecnologias utilizadas: HTML, CSS, SASS, Javascript (ES6), React, Redux, Styled Components, Gulp, Babel, Webpack, Git, Figma.
+- **Idealista** - Desenvolvedor Front-end  
+abr de 2017 - jun de 2017 (3 meses)
 
----
-
-**Idealista** - Desenvolvedor Front-end  
-abr de 2017 - jul de 2017 (3 meses)
-
-A Idealista é uma empresa de Estratégia de Marketing, Conteúdo Digital e Desenvolvimento de Negócios.
-
-Minhas principais atribuições foram:
-- Desenvolvimento e manutenção de E-commerce e Landing Pages para parceiros (Tinder, Blissímo e Amway)
-- Desenvolvimento de ferramentas para auxiliar o trabalho de outras áreas.
-- Análise e levantamento de requisitos para estudos de novas funcionalidades.
-
-Tecnologias utilizadas: HTML, CSS, Javascript, jQuery, Photoshop.
-
----
-
-**Atento** - Desenvolvedor Front-end  
-jan de 2014 - abr de 2017 (3 anos e 4 meses)
-
-A Atento Brasil é uma empresa de Contact Center, BPO(Business Process Outsourcing) e Atendimento ao Cliente.
-
-Fui alocado para a central de suporte técnico da Motorola com o objetivo de utilizar a tecnologia para tornar o atendimento mais rápido e eficiente.
-
-Minhas principais atribuições foram:
-- Desenvolvimento e manutenção de funcionalidades para o sistema interno de gestão de conteúdo.
-- Desenvolvimento de ferramentas para auxiliar o trabalho de outras áreas.
-- Análise e levantamento de requisitos para estudos de novas funcionalidades.
-
-Tecnologias utilizadas: HTML, CSS, Javascript, jQuery.
-
-Prêmios ganhos: Best Pratices Atento 2015
-
----
+- **Atento** - Desenvolvedor Front-end  
+mar de 2014 - abr de 2017 (2 anos e 2 meses)  
 
 ## Formação
 
-**Bacharelado em Ciências da Computação** - Laureate International Universities (2019 - 2024)  
+- **Análise e Desenvolvimento de Sistemas** - FIAP  
+2017 - 2018
 
-**Senac** - Formação Autodesk 3D Studio Max 2010 (400hrs)  
+- **Formação Autodesk 3D Studio Max 2010** - SENAC  
+400hs
 
-**Escolaridade** - Ensino médio completo
+## Estudos
+
+- **React** - Rocketseat
+- **NextJS** - Rocketseat
+- **Fundamentos do C#** - Balta.io
